@@ -13,12 +13,14 @@ body{
     border-radius: 50px;
     max-width: 500px; 
     overflow: hidden;
+    width: 90vw;
+    margin: 20px auto;
 }
 
 #display{
     width: 100%;
-    padding: 20px;
-    font-size: 5rem;
+    padding: 15px;
+    font-size: 3rem;
     text-align: left; 
     border: none; 
     background-color: hsl(0, 0%, 20%);
@@ -29,19 +31,34 @@ body{
     display: grid; 
     grid-template-columns: repeat(4, 1fr);
     gap: 10px;
-    padding: 25px;
+    padding: 20px;
+    text-align: center;
 }
 
 button{
-    width: 100px;
-    height: 100px;
-    border-radius: 50px;
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    border-radius: 30px;
     border: none;
     background-color: hsl(0, 0%, 30%);
     color: white;
-    font-size: 3rem;
+    font-size: 2rem;
     font-weight: bold; 
     cursor: pointer;
+}
+
+@media (max-width: 480px) {
+    #display { 
+        font-size: 2rem;
+        padding: 10px;
+    }
+    button {
+        font-size: 1.5rem;
+        border-radius: 20px;
+    }
+    #calculator {
+        width: 95vw;
+    }
 }
 button:hover{
     background-color: hsl(0, 0%, 40%);
