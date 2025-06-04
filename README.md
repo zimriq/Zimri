@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 Projects I'm Working On
-Coming soon!
+Beginner Calculator 
 
 ---
 
