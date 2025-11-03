@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 Projects I'm Working On
-- [Beginner Calculator Proj](https://zimriq.github.io/Zimri/beginner-calculator-proj/)
+- [Calculator Proj](https://zimriq.github.io/Zimri/beginner-calculator-proj/)
 
 ---
 
