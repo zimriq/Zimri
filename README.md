@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 Projects I'm Working On
-- [Calculator Proj](https://zimriq.github.io/Zimri/beginner-calculator-proj/)
+- [Calculator Proj](https://zimriq.github.io/Calculator/)
 - [NFL Fantasy Football Tool] (in progress)
 
 ---
