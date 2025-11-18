@@ -9,7 +9,7 @@
 
 ### 🚀 Projects I'm Working On
 - [Calculator Proj](https://zimriq.github.io/Calculator/)
-- [NFL Fantasy Football Tool] (in progress)
+- [NFL Fantasy Football Tool](https://fantasyforecast.onrender.com) (in progress)
 
 ---
 
